@@ -1,0 +1,49 @@
+.back{
+
+    background-image: url(../img/back.jpg);
+    width: 1337px;
+    height: 640px;
+    background-repeat: no-repeat;
+
+}
+.tret{
+    padding: 246px 0px 1px 104px;
+    color: white;
+    font-family: sans-serif;
+    transition: 1s;
+}
+
+.tret:hover{
+        padding: 246px 0px 1px 104px;
+        color: white;
+        font-family: cursive;
+       
+    
+
+}
+.con{
+    color: white;
+    font-weight: 400;
+    padding: 0px 0px 0px 105px;
+}
+.con:hover{
+    color: white;
+    font-weight: 400;
+    padding: 0px 0px 0px 105px;
+}
+
+.tb{
+    margin: 46px 0px 0px 169px;
+    background-color: #0000ff00;
+    /* border-radius: -2px; */
+    padding: 11px;
+    border: 1px solid #415fb5ad;
+    border-radius: 8px;
+    -webkit-text-stroke: #1d1212;
+    text-decoration: none;
+    font-variant: all-small-caps;
+}
+.tb:hover {
+    background-color: #8891ff;
+    font-variant: all-small-caps;
+}
